@@ -1,0 +1,34 @@
+2025-01-27 10:26:11,641 INFO  o.m.p.u.log.writers.PluginLogger Changing log level from ERROR to DEBUG
+2025-01-27 10:26:11,643 DEBUG org.modelio.platform.preferences Initializing 'org.modelio.platform.preferences' plugin preferences ...
+2025-01-27 10:26:11,645 DEBUG org.modelio.platform.preferences  - Initializing default values from 'org.modelio.app.admtool'...
+2025-01-27 10:26:11,645 DEBUG org.modelio.platform.preferences    - default pref value 'Log.LogLevel'='3'
+2025-01-27 10:26:11,645 DEBUG org.modelio.platform.preferences    - default pref value 'AdmTools.Show'='false'
+2025-01-27 10:26:11,645 DEBUG org.modelio.platform.preferences  - Initializing default values from 'org.modelio.app.diagram.editor'...
+2025-01-27 10:26:11,646 DEBUG org.modelio.platform.preferences    - default pref value 'DeleteMode'='DELETE'
+2025-01-27 10:26:11,646 DEBUG org.modelio.platform.preferences  - Initializing default values from 'org.modelio.app.module.catalog'...
+2025-01-27 10:26:11,646 DEBUG org.modelio.platform.preferences    - default pref value 'ModuleCatalog.ShowCompatible'='true'
+2025-01-27 10:26:11,646 DEBUG org.modelio.platform.preferences    - default pref value 'ModuleCatalog.ShowLatest'='true'
+2025-01-27 10:26:11,646 DEBUG org.modelio.platform.preferences  - Initializing default values from 'org.modelio.app.update.ext_org'...
+2025-01-27 10:26:11,646 DEBUG org.modelio.platform.preferences    - default pref value 'Update.Site'='https://www.modelio.org/updates'
+2025-01-27 10:26:11,646 INFO  o.m.p.u.log.writers.PluginLogger Changing log level from DEBUG to ERROR
+2025-01-27 10:26:11,646 INFO  o.m.p.u.log.writers.PluginLogger Changing log level from ERROR to INFO
+2025-01-27 10:26:11,736 INFO  org.modelio.app.ui               Modelio by modelio.org
+2025-01-27 10:26:11,751 INFO  org.modelio.app.ui               Modelio version            : '5.4.01'
+2025-01-27 10:26:11,752 INFO  org.modelio.app.ui               Modelio runtime data path  : 'C:\Users\Palac\.modelio\5.4'
+2025-01-27 10:26:11,752 INFO  org.modelio.app.ui               Modelio module catalog path: 'C:\Users\Palac\.modelio\5.4\modules'
+2025-01-27 10:26:11,752 INFO  org.modelio.app.ui               Modelio macro  catalog path: 'C:\Users\Palac\.modelio\5.4\macros'
+2025-01-27 10:26:11,753 INFO  org.modelio.app.ui               Instance location: file:/C:/Users/Palac/.modelio/5.4/opensource-cache/data/
+2025-01-27 10:26:11,753 INFO  org.modelio.app.ui               Command line arguments = '-clearPersistedState 5`¼4 '
+2025-01-27 10:26:11,755 WARN  org.modelio.platform.project     Unknown '5`¼4' argument at index 1, ignored.
+2025-01-27 10:26:12,361 INFO  org.modelio.app.ui               Trusted server certificates store is 'C:\Users\Palac\.modelio\5.4\servercerts.db'
+2025-01-27 10:26:12,384 TRACE modelio.core                     'C:\Users\Palac\.modelio\5.4\modules' module catalog version is 0 instead of 4, cleaning the catalog...
+2025-01-27 10:26:12,398 TRACE modelio.core                     'C:\Users\Palac\.modelio\5.4\modules' module catalog cleaning done
+2025-01-27 10:26:15,818 TRACE modelio.core                     The 'JavaDesigner' repository index is missing.
+2025-01-27 10:26:17,427 TRACE modelio.core                     The 'PersistentProfile' repository index is missing.
+2025-01-27 10:26:18,709 TRACE modelio.core                     The 'SysMLArchitect' repository index is missing.
+2025-01-27 10:26:20,651 TRACE modelio.core                     The 'TogafArchitect' repository index is missing.
+2025-01-27 10:26:23,813 TRACE modelio.core                     'C:\Users\Palac\.modelio\5.4\opensource-cache\conf\org.eclipse.osgi\308\data\modules_cache' module catalog version is 0 instead of 1, cleaning the catalog...
+2025-01-27 10:26:23,816 TRACE modelio.core                     'C:\Users\Palac\.modelio\5.4\opensource-cache\conf\org.eclipse.osgi\308\data\modules_cache' module catalog cleaning done
+2025-01-27 10:26:23,932 INFO  org.modelio.app.ui               SWAP is ENABLED
+2025-01-27 10:26:24,984 INFO  org.modelio.app.project.ui       Changing workspace to: C:\Users\Palac\modelio\workspace
+2025-01-27 10:26:27,419 INFO  org.modelio.platform.project     Running batch: project=null create=false workspace=null

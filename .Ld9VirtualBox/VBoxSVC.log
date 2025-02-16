@@ -1,0 +1,70 @@
+00:00:00.023917 main     VirtualBox COM Server 4.1.34 r1129466056 win.amd64 (Jul 26 2022 16:16:15) release log
+00:00:00.024074 main     Log opened 2023-01-18T22:12:25.867070600Z
+00:00:00.024076 main     Build Type: release
+00:00:00.024116 main     OS Product: Windows 11
+00:00:00.024118 main     OS Release: 10.0.22000
+00:00:00.024118 main     OS Service Pack: 
+00:00:00.111980 main     DMI Product Name: Nitro AN515-57
+00:00:00.128706 main     DMI Product Version: V1.17
+00:00:00.128733 main     Firmware type: UEFI
+00:00:00.130280 main     Secure Boot: Enabled
+00:00:00.130574 main     Host RAM: 7955MB (7.7GB) total, 1603MB available
+00:00:00.130587 main     Executable: C:\Program Files\ldplayer9box\Ld9BoxSVC.exe
+00:00:00.130588 main     Process ID: 14776
+00:00:00.130589 main     Package type: WINDOWS_64BITS_GENERIC (OSE)
+00:00:00.279028          VirtualBox: object creation starts
+00:00:00.279850          Home directory: 'C:\Users\Palac\.Ld9VirtualBox'
+00:00:00.280273          Installed Drivers:
+00:00:00.315045          USBLibInit: USB Service not found
+00:00:00.471677          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:00.478362          HostDnsMonitor: initializing
+00:00:00.490033          HostDnsMonitor: updating information
+00:00:00.490117          HostDnsMonitor: old information
+00:00:00.490124            no server entries
+00:00:00.490130            no domain set
+00:00:00.490135            no search string entries
+00:00:00.490140          HostDnsMonitor: new information
+00:00:00.490145            server 1: 181.70.124.110
+00:00:00.490150            server 2: 190.248.0.2
+00:00:00.490155            domain: hitronhub.home
+00:00:00.490161            no search string entries
+00:00:00.526269          VD: VDInit finished with VINF_SUCCESS
+00:00:00.526988          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={20191216-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.528780          VirtualBox: object created
+00:00:00.546488          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {20160302-aaaa-aaaa-0eee-000000000000}}, preserve=false aResultDetail=0
+00:00:01.267579          Loading settings file "C:\LDPlayer\LDPlayer9\vms\leidian0\leidian.vbox" with version "1.18-windows"
+00:00:01.270874          Saving settings file "C:\Users\Palac\.Ld9VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.281096          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Could not find a shared folder named 'Applications'}, preserve=false aResultDetail=0
+00:00:01.281967          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Could not find a shared folder named 'Bug'}, preserve=false aResultDetail=0
+00:00:01.282454          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Could not find a shared folder named 'Misc'}, preserve=false aResultDetail=0
+00:00:01.282927          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Could not find a shared folder named 'Pictures'}, preserve=false aResultDetail=0
+00:00:01.299553          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:01.304290          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'VirtIO'}, preserve=false aResultDetail=0
+00:00:01.305455          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 2 of controller 'VirtIO'}, preserve=false aResultDetail=0
+00:00:01.340960          Saving settings file "C:\Users\Palac\.Ld9VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.343487          Saving settings file "C:\LDPlayer\LDPlayer9\vms\leidian0\leidian.vbox" with version "1.18-windows"
+00:00:01.538960          Launched VM: 17236096 pid: 21564 (0x543c) frontend: headless name: leidian0
+00:00:01.885981          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={20191216-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:13:19.111363          Saving settings file "C:\LDPlayer\LDPlayer9\vms\leidian0\leidian.vbox" with version "1.18-windows"
+00:13:20.237976          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:13:20.244897          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={20191216-6e15-4f71-a6a5-94e707fafbcc} aComponent={NATEngineWrap} aText={A NAT rule of this name already exists}, preserve=false aResultDetail=0
+00:13:20.245118          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={20191216-6e15-4f71-a6a5-94e707fafbcc} aComponent={NATEngineWrap} aText={A NAT rule of this name already exists}, preserve=false aResultDetail=0
+00:13:20.249632          Saving settings file "C:\LDPlayer\LDPlayer9\vms\leidian0\leidian.vbox" with version "1.18-windows"
+00:13:20.325726          Launched VM: 17239024 pid: 24876 (0x612c) frontend: headless name: leidian0
+00:13:20.575124          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={20191216-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:16:28.647575          Saving settings file "C:\LDPlayer\LDPlayer9\vms\leidian0\leidian.vbox" with version "1.18-windows"
+00:16:30.860933          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:16:30.867899          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={20191216-6e15-4f71-a6a5-94e707fafbcc} aComponent={NATEngineWrap} aText={A NAT rule of this name already exists}, preserve=false aResultDetail=0
+00:16:30.868082          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={20191216-6e15-4f71-a6a5-94e707fafbcc} aComponent={NATEngineWrap} aText={A NAT rule of this name already exists}, preserve=false aResultDetail=0
+00:16:30.871563          Saving settings file "C:\LDPlayer\LDPlayer9\vms\leidian0\leidian.vbox" with version "1.18-windows"
+00:16:30.968256          Launched VM: 17290096 pid: 3464 (0xd88) frontend: headless name: leidian0
+00:16:31.190900          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={20191216-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:18:55.546188          Saving settings file "C:\LDPlayer\LDPlayer9\vms\leidian0\leidian.vbox" with version "1.18-windows"
+00:19:00.554394 main     VirtualBox: object deletion starts
+00:19:00.554765 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={20191216-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\LDPlayer\LDPlayer9\system.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:19:00.554830 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={20191216-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\LDPlayer\LDPlayer9\vms\leidian0\data.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:19:00.554844 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={20191216-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\LDPlayer\LDPlayer9\vms\leidian0\sdcard.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:19:00.556773 main     HostDnsMonitor: shutting down ...
+00:19:00.557294 main     HostDnsMonitor: shut down
+00:19:00.559533 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={20191216-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:19:00.559696 main     VirtualBox: object deleted
